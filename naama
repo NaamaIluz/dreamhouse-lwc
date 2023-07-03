@@ -1,2 +1,3 @@
 git clone https://github.com/dreamhouseapp/dreamhouse-lwc.git
 sfdx force:auth:web:login -d -a DevHub
+sfdx force:org:list
